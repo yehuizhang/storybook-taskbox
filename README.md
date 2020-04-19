@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+author: Yehui Zhang @yehuizhang
+
 This is a tutorial project following with [Storybook tutorial for react](https://www.learnstorybook.com/intro-to-storybook/react/en/deploy/).
 
 ## Available Scripts
